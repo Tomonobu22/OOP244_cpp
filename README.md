@@ -1,5 +1,7 @@
 #OOP244_FinalProject_cpp
-College Final Project - Object Oriented Programming 244 - Divided in 6 milestones Use data56.dat as an input.
+College Final Project - Object Oriented Programming 244 - Divided in 6 milestones 
+
+Use data56.dat as an input.
 
 Project: Disaster and Emergency Aid Management
 Use case
